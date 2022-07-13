@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layers0": "parwarmod:items/feuer_kugel"
+  }
+}
